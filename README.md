@@ -2,7 +2,8 @@
 
 A modern, high-performance Todo application built with **Next.js**, **Tailwind CSS**, and **TypeScript**. Stay organized, track your daily focus, and visualize your productivity with ease.
 
-![Application Snapshot](public/assets/screenshots/app_snapshot.png)
+![Application Snapshot]<img width="1292" height="823" alt="image" src="https://github.com/user-attachments/assets/8bc62f5d-6293-49d8-82bb-edcfc90859de" />
+
 
 ## ✨ Features
 
